@@ -1,0 +1,30 @@
+{
+  "name": "@alyssum/waffle",
+  "version": "1.0.0",
+  "author": "Alyssum",
+  "description": "A markup language for componentized documents.",
+  "keywords": [
+    "document",
+    "waffle"
+  ],
+  "main": "lib",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/alyssum/waffle.git"
+  },
+  "maintainers": [
+    "Kevin Ju"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/alyssum/waffle/issues"
+  },
+  "homepage": "https://gitlab.com/alyssum/waffle#readme"
+}
